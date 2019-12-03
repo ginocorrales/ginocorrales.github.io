@@ -1,0 +1,33 @@
+<style>
+        body {
+            background-color: black;
+            text-align: left;
+        }
+
+        h1 {
+          color: lawngreen;
+          font-size: 25px;
+        }
+
+        h3 {
+          color: darkseagreen;
+          font-size: 17px;
+        }
+
+        p {
+          font-family:inherit;
+          font-size: 15px;
+          color: darkgreen;
+        }
+
+        a {
+          font-family:serif;
+          color: gray;
+          font-size: 13px;
+        }
+        #greengrad {
+          height: 1250px;
+          background-color: red;
+          background-image: linear-gradient(black, green);
+        }
+    </style>
