@@ -1,5 +1,5 @@
 <style>
-        
+
         body {
             background-color: black;
             text-align: left;
@@ -28,7 +28,7 @@
           font-size: 13px;
         }
         #greengrad {
-          height: 1250px;
+          height: 1050px;
           background-color: red;
           background-image: linear-gradient(black, green);
         }
