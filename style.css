@@ -13,19 +13,19 @@
 
         h3 {
           color: darkseagreen;
-          font-size: 17px;
+          font-size: 20px;
         }
 
         p {
           font-family:inherit;
-          font-size: 15px;
+          font-size: 18px;
           color: darkgreen;
         }
 
         a {
           font-family:serif;
           color: gray;
-          font-size: 13px;
+          font-size: 10px;
         }
         #greengrad {
           height: 650px;
