@@ -12,11 +12,11 @@ Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮Ɇ
 
 * 🌍  I'm based in the midwest - Bloomington, IL 🌽🍎
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
-* 💬  Ask me about... super dupper nerd stuff! ✨🎁
+* 💬  Ask me about... super nerd stuff! ✨🎁
 * 🤔  I’m looking for help with your IT career development, leadership, cybersecurity, some IA, Identity Access Management and full stack dev.🎱
 
 <!--
-### About Me
+### About Me:
 ⚽
 <img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/USA.png" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/Peru.png" alt="git" width="40" height="40"/>
