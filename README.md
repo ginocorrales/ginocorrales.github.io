@@ -8,7 +8,7 @@ Thanks for stop by!
 I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
 -----------------------------------------  
 
-Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as an IAM Analyst. 
+Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as an IAM Team Lead. 
 
 * 🌍  I'm based in the midwest - Bloomington, IL 🌽🍎
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
