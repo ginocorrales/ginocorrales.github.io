@@ -84,7 +84,7 @@ Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮Ɇ
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats as Today</b>
 
 <a href="https://www.github.com/ginocorrales"><img src="https://github-readme-stats.vercel.app/api?username=ginocorrales&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="GinoCorrales's GitHub stats" /></a>
 
