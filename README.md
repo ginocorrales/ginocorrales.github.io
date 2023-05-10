@@ -5,7 +5,7 @@ also check my https://www.linkedin.com/in/ginocorrales
 👋 Howdy, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽ 🎮 🌍
 ==============================
 
-I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
+I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ Analyst !!!
 -----------------------------------------  
 
 Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as an IAM Team Lead. 
