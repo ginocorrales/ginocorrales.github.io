@@ -8,10 +8,10 @@
        .container {
          background-image: url('background-image.jpg');
          background-size: cover;
-         //background-position: center;
+         background-position: center;
          height: 130vh;
          //display: flex;
-         //align-items: center;
+         align-items: center;
          justify-content: left;
          text-align: center;
        }
