@@ -1,34 +1,39 @@
 <style>
-        body {
-            background-color: black;
-            text-align: left;
-            color: lawngreen;
-        }
+       body {
+           background-color: black;
+           font-family: "Lucida Console", "Courier New", monospace;
+           text-align: left;
+       }
 
-        h1 {
-          color: lawngreen;
-          font-size: 27px;
-        }
+       head{
+            <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+            <meta name="msapplication-TileColor" content="#da532c">
+            <link rel="manifest" href="/site.webmanifest">
+            <meta name="theme-color" content="#ffffff">
+       }
 
-        h3 {
-          color: darkseagreen;
-          font-size: 20px;
-        }
+       h1 {
+         color: lawngreen;
+         font-size: 26px;
+       }
 
-        p {
-          font-family:inherit;
-          font-size: 21px;
-          color: darkgreen;
-        }
+       h3 {
+         color: darkseagreen;
+         font-size: 20px;
+       }
 
-        a {
-          font-family:serif;
-          color: gray;
-          font-size: 10px;
-        }
-        #greengrad {
-          height: 650px;
-          background-color: red;
-          background-image: linear-gradient(black, green);
-        }
+       p {
+         font-size: 17px;
+         color: darkgreen;
+       }
+
+       a {
+         color: gray;
+         font-size: 17px;
+       }
+
+       #background-gradient {
+         height: 1050px;
+         background-image: linear-gradient(black, green);
+       }
 </style>
