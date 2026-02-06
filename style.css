@@ -6,8 +6,12 @@
   --bg-3: #0d2b1e;
   --text-1: #f5f1e8;
   --text-2: #c9c4b8;
-  --accent: #ffb703;
-  --accent-2: #38bdf8;
+  --peru-red: #b11226;
+  --peru-gold: #e09f3e;
+  --peru-teal: #1f7a7a;
+  --peru-cream: #f6efe6;
+  --accent: var(--peru-gold);
+  --accent-2: var(--peru-red);
   --card-bg: rgba(12, 16, 20, 0.72);
   --card-border: rgba(255, 255, 255, 0.12);
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
@@ -34,8 +38,8 @@ body {
   min-height: 100vh;
   font-family: "Space Grotesk", system-ui, sans-serif;
   color: var(--text-1);
-  background: radial-gradient(1200px 800px at 10% -20%, rgba(56, 189, 248, 0.15), transparent 70%),
-    radial-gradient(1000px 700px at 90% 10%, rgba(255, 183, 3, 0.18), transparent 60%),
+  background: radial-gradient(1000px 700px at 12% -15%, rgba(177, 18, 38, 0.18), transparent 65%),
+    radial-gradient(900px 700px at 88% 12%, rgba(224, 159, 62, 0.22), transparent 60%),
     linear-gradient(160deg, var(--bg-1), var(--bg-2) 55%, var(--bg-3));
   overflow-x: hidden;
 }
@@ -57,8 +61,27 @@ body {
 .bg-orbs span {
   position: absolute;
   border-radius: 999px;
-  background: linear-gradient(120deg, rgba(255, 183, 3, 0.4), rgba(56, 189, 248, 0.35));
+  background: linear-gradient(120deg, rgba(224, 159, 62, 0.45), rgba(177, 18, 38, 0.35));
   animation: float 16s ease-in-out infinite;
+}
+
+.bg-textile {
+  position: absolute;
+  inset: 0;
+  opacity: 0.16;
+  background-image: repeating-linear-gradient(
+      120deg,
+      rgba(224, 159, 62, 0.4) 0 14px,
+      rgba(246, 239, 230, 0.2) 14px 20px,
+      rgba(31, 122, 122, 0.35) 20px 32px,
+      rgba(177, 18, 38, 0.4) 32px 44px
+    ),
+    repeating-linear-gradient(
+      -60deg,
+      rgba(246, 239, 230, 0.18) 0 16px,
+      rgba(12, 16, 20, 0.2) 16px 24px
+    );
+  mix-blend-mode: screen;
 }
 
 .bg-orbs span:nth-child(1) {
@@ -158,6 +181,14 @@ body {
   color: var(--accent-2);
 }
 
+h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--peru-cream);
+}
+
 h1 {
   margin: 0;
   font-size: clamp(2.4rem, 4vw, 4rem);
@@ -183,6 +214,20 @@ h1 {
   min-height: 28px;
 }
 
+.andean-band {
+  height: 14px;
+  border-radius: 999px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--peru-red) 0 18px,
+    var(--peru-cream) 18px 26px,
+    var(--peru-gold) 26px 38px,
+    var(--peru-teal) 38px 50px,
+    var(--peru-cream) 50px 56px
+  );
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  opacity: 0.9;
+}
 .caret {
   width: 2px;
   height: 20px;
